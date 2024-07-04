@@ -131,6 +131,7 @@ This project demonstrates the power of data analysis and machine learning in tra
 
 ---
 Data Download
-For those interested in exploring the data used in this project, you can download the dataset provided by one of the authors from Kaggle. Click here to access the database.
+For those interested in exploring the data used in this project, you can download the dataset provided by one of the authors from Kaggle. Click here to access the database: https://www.kaggle.com/code/edwinstanzah/nba-draft-prediction-part-1-getting-the-data/input?select=basketball.sqlite
+
 
 **Thank you for reviewing this project. For more details, please refer to the slides included.**
