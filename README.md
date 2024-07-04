@@ -130,5 +130,7 @@ As a data analysis enthusiast, this project provides a deep dive into the patter
 This project demonstrates the power of data analysis and machine learning in transforming NBA draft predictions. Continuous learning and adaptation are crucial for success in rapidly evolving fields.
 
 ---
+Data Download
+For those interested in exploring the data used in this project, you can download the dataset provided by one of the authors from Kaggle. Click here to access the database.
 
 **Thank you for reviewing this project. For more details, please refer to the slides included.**
